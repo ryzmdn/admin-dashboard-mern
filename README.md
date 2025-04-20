@@ -4,7 +4,7 @@
 
 ## Dashboard image
 
-![Image Preview](https://github.com/user-attachments/assets/07e14297-9d65-4150-8ebf-1c6662c1d9de)
+![dashboard](https://github.com/user-attachments/assets/65703573-9aba-4b99-be5d-e1e7dfce3f35)
 
 ## Features
 
